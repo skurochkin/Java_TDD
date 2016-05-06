@@ -4,12 +4,12 @@ package p1;
  * Created by VKurochkin on 5/5/2016.
  */
 public class Fraction {
-    private final int denominator;
+
     private final int numerator;
+    private final int denominator;
 
     public Fraction(int integerValue){
-        this.denominator = 1;
-        this.numerator = integerValue;
+      this(integerValue, 1);
     }
 
     public Fraction(int numerator, int denominator) {
