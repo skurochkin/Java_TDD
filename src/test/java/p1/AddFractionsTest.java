@@ -32,7 +32,12 @@ public class AddFractionsTest {
     public void nonNegativeNonZeroOperatos() throws Exception {
         final Fraction sum = new Fraction(3).plus(new Fraction(4));
         assertEquals(7, sum.intValue());
+    }
 
+    @Test
+    public void negativePlusNonZeroOperatos() throws Exception {
+        final Fraction sum = new Fraction(-3).plus(new Fraction(1));
+        assertEquals(-2, sum.intValue());
     }
 }
 
