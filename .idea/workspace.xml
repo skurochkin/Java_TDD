@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4818e5d-57d1-4eec-a218-962432d5d383" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/p1/AddFractionsTest.java" afterPath="$PROJECT_DIR$/src/test/java/p1/AddFractionsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/p1/Fraction.java" afterPath="$PROJECT_DIR$/src/main/java/p1/Fraction.java" />
     </list>
     <ignored path="tdd.iws" />
@@ -29,17 +28,17 @@
       <file leaf-file-name="Fraction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/p1/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92421746">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.89621085">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding>
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -660,17 +659,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/p1/Fraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92421746">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.89621085">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
           </folding>
         </state>
       </provider>
