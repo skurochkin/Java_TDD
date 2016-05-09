@@ -36,4 +36,9 @@ public class Fraction {
         }
         return false;   // To change body of overridden methods use File | Settings | File
     }
+
+    @Override
+    public int hashCode(){
+        return numerator*19 + denominator;
+    }
 }
